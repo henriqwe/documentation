@@ -18,8 +18,8 @@ export const NavigationStructure = [
   {
     title: 'Operations',
     links: [
-      { title: 'Select', href: '/docs/operations/select' },
       { title: 'Insert', href: '/docs/operations/insert' },
+      { title: 'Select', href: '/docs/operations/select' },
       { title: 'Update', href: '/docs/operations/update' },
       { title: 'Delete', href: '/docs/operations/delete' },
     ],
