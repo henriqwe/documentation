@@ -55,10 +55,6 @@ export const NavigationStructure = [
     title: 'Guides / Tutorials / Resources',
     links: [
       {
-        title: 'Criação de Conta e Criação de Schema de Dados com Console CLI',
-        href: '/docs/guides-tutorials-resources/conta-schema',
-      },
-      {
         title: 'Consumindo Serviços de Backend para um Schema de Dados',
         href: '/docs/guides-tutorials-resources/consumindo-servicos',
       },
